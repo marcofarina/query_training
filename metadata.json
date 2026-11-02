@@ -1,0 +1,6 @@
+{
+  "name": "Jedi SQL Academy",
+  "description": "Piattaforma didattica per esercitarsi con query SQL nell'universo Star Wars: banca di oltre 100 esercizi multilivello, feedback istantaneo, schema relazionale interattivo e spiegazioni con Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
